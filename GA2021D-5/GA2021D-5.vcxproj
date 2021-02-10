@@ -167,14 +167,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="config.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="GA2021D-5.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="system_timer.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GA2021D-5.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="system_timer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GA2021D-5.rc" />
