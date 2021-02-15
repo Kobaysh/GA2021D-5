@@ -173,11 +173,13 @@
     <ClInclude Include="Resource.h" />
     <ClInclude Include="system_timer.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Window.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GA2021D-5.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="system_timer.cpp" />
+    <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GA2021D-5.rc" />
