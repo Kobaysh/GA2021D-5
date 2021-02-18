@@ -119,6 +119,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 		}
 
+	case 1:
+		break;
 
 	case WM_ACTIVATEAPP:
 	case WM_SYSKEYDOWN:
